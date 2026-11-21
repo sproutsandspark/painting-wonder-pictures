@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "id": "wild",
+      "ids": [
+        "zebra"
+      ]
+    }
+  ],
+  "format": 1,
+  "pictures": {
+    "zebra": {
+      "sha256": "83c3aac77e18afcccb1633555af902f1a8e1009b683e663dff9444caa3fd27bc",
+      "size": 48556
+    }
+  },
+  "version": 1795245960
+}
